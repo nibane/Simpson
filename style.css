@@ -12,8 +12,21 @@ padding: 0;
 
 .page{
     text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
 }
 
-/* body{
-    background: url(/img/simpson.jpg) center/cover;
-} */
+.banniere{
+    width: 100%;
+    height: 24em;
+    object-fit: cover;
+    vertical-align: bottom;
+}
+
+body{
+    background-color: yellow;
+}
+
+main{
+    background-color: #fff;
+}
