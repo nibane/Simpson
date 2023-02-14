@@ -37,7 +37,13 @@ main{
     background-color: rgb(51, 62, 212);
     text-align: center;
     margin: 2% ;
-    padding: 9px 3.5em;
+    padding: 1% 7%;
     margin-bottom: 90%;
     
+}
+
+article h1{
+    font-size: 28px;
+    color: rgb(245, 215, 21);
+    text-shadow: 1px -1px 1px #ffc81d;
 }
