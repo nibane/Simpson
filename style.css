@@ -33,13 +33,17 @@ main{
 }
 
 .tableaux1{
-    color: #ffffff;
     background-color: rgb(51, 62, 212);
     text-align: center;
     margin: 2% ;
     padding: 1% 7%;
     height: 30%;
     
+}
+
+.tableaux1 a{
+    color: white;
+    text-decoration: none;
 }
 
 article h1{
