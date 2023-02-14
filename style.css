@@ -38,7 +38,7 @@ main{
     text-align: center;
     margin: 2% ;
     padding: 1% 7%;
-    margin-bottom: 90%;
+    height: 30%;
     
 }
 
@@ -46,4 +46,35 @@ article h1{
     font-size: 28px;
     color: rgb(245, 215, 21);
     text-shadow: 1px -1px 1px #ffc81d;
+    margin: 30% 60% 10% 0;
+}
+
+
+
+aside figcaption{
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 4%;
+}
+
+aside{
+    padding: 4%;
+    margin: 2%;
+    background-color: rgb(51, 62, 212);
+    color: #fff;
+    text-align: start;
+    height: 30%;
+}
+
+main p{
+    text-align: left;
+    font-size: 18px;
+}
+
+footer{
+    color: #ffffff;
+    background-color: rgb(51, 62, 212);
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
 }
