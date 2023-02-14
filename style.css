@@ -1,4 +1,19 @@
-*{
-margin: 0;
+*{margin: 0;
 padding: 0;
 }
+
+.en-tete{
+    color: #ffffff;
+    background-color: rgb(51, 62, 212);
+    text-align: center;
+    font-size: 28px;
+    padding: 30px;
+}
+
+.page{
+    text-align: center;
+}
+
+/* body{
+    background: url(/img/simpson.jpg) center/cover;
+} */
